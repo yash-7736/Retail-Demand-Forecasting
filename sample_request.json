@@ -1,0 +1,22 @@
+{
+  "Lag1": 42.0,
+  "Lag2": 42.0,
+  "Lag7": 50.0,
+  "Lag14": 52.0,
+  "Avg7": 46.71,
+  "Avg28": 50.18,
+  "Std7": 6.87,
+  "DayOfWeek": 3,
+  "IsWeekend": 0,
+  "Month": 10,
+  "WeekOfYear": 41,
+  "Holiday": 0,
+  "Promotion": 0,
+  "UnitPrice": 160.65,
+  "PriceRatio": 1.0,
+  "StoreID": 1,
+  "ProductID": 2,
+  "CategoryCode": 1,
+  "StockNextDay": 60,
+  "NextDeliveryInDays": 3
+}

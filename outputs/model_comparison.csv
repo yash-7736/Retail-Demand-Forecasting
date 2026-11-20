@@ -1,0 +1,6 @@
+Model,Train MAE,Test MAE,Train RMSE,Test RMSE,Train R2,Test R2,Test WAPE %,Forecast Accuracy % (100-WAPE),Fit Status
+Random Forest,3.875,6.668,6.044,11.544,0.973,0.932,9.093,90.907,Good fit
+Decision Tree,4.881,7.011,7.642,12.198,0.956,0.924,9.561,90.439,Good fit
+Linear Regression,5.862,7.401,9.042,12.273,0.939,0.923,10.094,89.906,Good fit
+SVR,4.767,7.096,7.994,12.975,0.952,0.914,9.677,90.323,Good fit
+KNN,4.87,8.445,7.671,13.291,0.956,0.909,11.517,88.483,Good fit
